@@ -1,7 +1,3 @@
 # Brickplanet On Laravel 
-Originally written in June-July 2022 to get better with Laravel and to have something fun to work on.
-
-This Repository is maintained. v2 is comming this summa!
-
-Caching has been added. enjoy
+There Is No Vendor Which Has No Vendor and the stuff to sign up  dont work this src dosent function! at all but there enjoy skidding
 ## updates soon
